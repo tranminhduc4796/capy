@@ -2,6 +2,7 @@
 <p align="center">
   <img src="./logo.jpeg" />
 </p>
+
 ## Introduction
 
 With the dream of creating our own "Jarvis", `Capy` allows anyone to create and host their own virtual assistant (voice is the primary for sure. Tony Stark is too lazy to type) on their personal devices (PC, laptops, Android, iOS) with the minimum effort. Below are features that `Capy` supports:
