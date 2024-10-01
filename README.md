@@ -9,7 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/tranminhduc4796/capy?style=social&label=Star)](https://github.com/tranminhduc4796/capy)
 
 
-With the dream of creating our own "Jarvis", `Capy` allows anyone to create and host their own virtual assistant (voice is the primary for sure. Tony Stark is too lazy to type) on their personal devices (PC, laptops, Android, iOS) with the minimum effort.
+With the dream of creating our own "Jarvis", `Capy` allows anyone to train and run their own virtual assistant (voice is the primary for sure. Tony Stark is too lazy to type) on their personal devices (PC, laptops, Android, iOS) with the minimum effort.
 
 ## Development plan
 
