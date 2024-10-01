@@ -7,7 +7,7 @@
 
 
 <p align="center" style="font-size:2em">
-  <span style="color:#1971c2;">C</span>onversational <span style="color:#1971c2;">A</span>I <span style="color:#1971c2;">P</span>ersonalised for <span style="color:#1971c2;">Y</span>ou
+  <span bold>C</span>onversational <span style="color:#1971c2;">A</span>I <span style="color:#1971c2;">P</span>ersonalised for <span style="color:#1971c2;">Y</span>ou
 </p>
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) 
