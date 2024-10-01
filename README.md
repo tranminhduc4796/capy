@@ -1,14 +1,9 @@
 <p align="center">
-  <img src="./docs/logo.jpeg" style="width: 224px; max-width: 100%; height: auto;"/>
+  <img src="./docs/capy_logo_w_txt.png" style="width: 224px; max-width: 100%; height: auto;"/>
 </p>
 
 
-<h1 align="center">Capy(bara)</h1>
-
-
-<p align="center" style="font-size:2em">
-  <span bold>C</span>onversational <span style="color:#1971c2;">A</span>I <span style="color:#1971c2;">P</span>ersonalised for <span style="color:#1971c2;">Y</span>ou
-</p>
+<h1 align="center">Capy(bara) - Conversational AI Personalized for You</h1>
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) 
 [![GitHub stars](https://img.shields.io/github/stars/tranminhduc4796/capy?style=social&label=Star)](https://github.com/tranminhduc4796/capy)
