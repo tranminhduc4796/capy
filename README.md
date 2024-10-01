@@ -2,7 +2,10 @@
   <img src="./docs/logo.jpeg" style="width: 224px; max-width: 100%; height: auto;"/>
 </p>
 
+
 <h1 align="center">Capy(bara)</h1>
+
+
 <p align="center" style="font-size:2em">
   <span style="color:#1971c2;">C</span>onversational <span style="color:#1971c2;">A</span>I <span style="color:#1971c2;">P</span>ersonalised for <span style="color:#1971c2;">Y</span>ou
 </p>
