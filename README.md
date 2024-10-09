@@ -12,8 +12,8 @@
 With the dream of creating our own "Jarvis", `Capy` allows anyone to train and run their own virtual assistant (voice is the primary for sure. Tony Stark is too lazy to type) on their personal devices (PC, laptops, Android, iOS) with the minimum effort.
 
 ## TODO
-- [v] Interactive CLI
-- [v] Run the LLM inference on local device.
+- [x] Interactive CLI
+- [x] Run the LLM inference on local device.
 - [ ] Integrate Whisper for ASR
 - [ ] GUI
 - [ ] Package to .deb for Linux
