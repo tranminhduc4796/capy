@@ -12,16 +12,16 @@
 With the dream of creating our own "Jarvis", `Capy` allows anyone to train and run their own virtual assistant (voice is the primary for sure. Tony Stark is too lazy to type) on their personal devices (PC, laptops, Android, iOS) with the minimum effort.
 
 ## ⚙️ Features
-- ✅ Interactive CLI
-- ✅ LLM inference on local device.
-- ✅ Real-time ASR
-- [ ] Integrate Bark for TTS
-- [ ] GUI
-- [ ] Package to .deb for Linux
-- [ ] Audio visualizer
-- [ ] Wake-up command and name-awareness.
-- [ ] Open other installed application (only-Linux support)
-- [ ] Provide recipes to prepare training data for specific LLM models (both pre-training and alignment).
+✅ Interactive CLI \
+✅ LLM inference on local device. \
+✅ Real-time ASR \
+[ ] Integrate Bark for TTS \
+[ ] GUI \
+[ ] Package to .deb for Linux \
+[ ] Audio visualizer \
+[ ] Wake-up command and name-awareness. \
+[ ] Open other installed application (only-Linux support) \
+[ ] Provide recipes to prepare training data for specific LLM models (both pre-training and alignment).
 
 ## 🔧 Install
 Python: 3.10+
