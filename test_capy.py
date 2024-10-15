@@ -1,4 +1,4 @@
-from capy.chat_engine import CapyChatEngine
+from capy.core.chat_engine import CapyChatEngine
 
 
 def test_chat_engine():
