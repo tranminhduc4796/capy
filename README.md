@@ -15,13 +15,13 @@ With the dream of creating our own "Jarvis", `Capy` allows anyone to train and r
 ✅ Interactive CLI \
 ✅ LLM inference on local device. \
 ✅ Real-time ASR \
-[ ] Integrate Bark for TTS \
-[ ] GUI \
-[ ] Package to .deb for Linux \
-[ ] Audio visualizer \
-[ ] Wake-up command and name-awareness. \
-[ ] Open other installed application (only-Linux support) \
-[ ] Provide recipes to prepare training data for specific LLM models (both pre-training and alignment).
+⌛ Integrate Bark for TTS \
+⌛ GUI \
+⌛ Package to .deb for Linux \
+⌛ Audio visualizer \
+⌛ Wake-up command and name-awareness. \
+⌛ Open other installed application (only-Linux support) \
+⌛ Provide recipes to prepare training data for specific LLM models (both pre-training and alignment).
 
 ## 🔧 Install
 Python: 3.10+
